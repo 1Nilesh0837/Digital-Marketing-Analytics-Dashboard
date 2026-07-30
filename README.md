@@ -56,7 +56,7 @@ To run the dashboard locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AvazAsgarov/streamlit-digital-marketing-dashboard.git
+   git clone github.com/1Nilesh0837/Digital-Marketing-Analytics-Dashboard
    cd streamlit-digital-marketing-dashboard
    ```
 
