@@ -74,7 +74,7 @@ To run the dashboard locally, follow these steps:
    The dashboard will open in your default web browser.
 
 ## Usage
-1. **Access the Live App**: Visit [Digital Marketing Analytics Dashboard](https://digital-marketing-dashboard-avaz-asgarov.streamlit.app/) to explore the dashboard online.
+1. **Access the Live App**: Deploy on Steamlit to explore the dashboard online.
 2. **Adjust Filters**: Use the sidebar to set a date range, select regions, products, and marketing channels.
 3. **Explore Tabs**:
    - **Overview**: View KPIs, revenue vs spend scatter plot, ROI distribution, and top campaigns.
@@ -98,6 +98,4 @@ The dashboard generates a synthetic dataset with the following features:
 
 The dataset uses random distributions to simulate realistic marketing scenarios, with calculated fields for derived metrics.
 
-## Deployment
-This dashboard is deployed using [Streamlit Community Cloud](https://streamlit.io/cloud). Access the live app at [Digital Marketing Analytics Dashboard](https://digital-marketing-dashboard-avaz-asgarov.streamlit.app/). The deployment is managed directly from this GitHub repository, requiring only the Python script (`digital_marketing_streamlit_app.py`) and `requirements.txt`.
 
