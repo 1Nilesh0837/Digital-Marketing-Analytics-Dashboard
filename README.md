@@ -101,5 +101,3 @@ The dataset uses random distributions to simulate realistic marketing scenarios,
 ## Deployment
 This dashboard is deployed using [Streamlit Community Cloud](https://streamlit.io/cloud). Access the live app at [Digital Marketing Analytics Dashboard](https://digital-marketing-dashboard-avaz-asgarov.streamlit.app/). The deployment is managed directly from this GitHub repository, requiring only the Python script (`digital_marketing_streamlit_app.py`) and `requirements.txt`.
 
-## Contact
-For any questions or suggestions, please open an issue in this repository or connect with me on LinkedIn: **[Avaz Asgarov](https://www.linkedin.com/in/avaz-asgarov/)**.
